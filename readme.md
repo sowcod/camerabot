@@ -1,0 +1,3 @@
+LINEBotにメッセージを送るとPCのカメラで写真を撮って返してくれる。
+
+PCカメラ←PC⇄Google CloudFunctions⇄LINE
